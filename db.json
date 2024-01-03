@@ -1,0 +1,12 @@
+{
+  "food": [
+    { "id": 1, "title": "Beef Burger", "price": 100, "type": "burger", "image": "https://static.vecteezy.com/system/resources/previews/022/598/809/original/tasty-beef-burger-png.png" },
+    { "id": 2, "title": "Chicken Burger", "price": 90, "type": "burger", "image": "https://w7.pngwing.com/pngs/497/544/png-transparent-whopper-hamburger-big-king-chicken-nugget-chicken-fingers-burger-king-food-recipe-chicken-meat.png" },
+    { "id": 3, "title": "BigMac Burger", "price": 200, "type": "burger", "image": "https://w7.pngwing.com/pngs/587/614/png-transparent-mcdonald-s-big-mac-cheeseburger-hamburger-whopper-patty-double-cheese.png" },
+    { "id": 4, "title": "Cheese Burger", "price": 50, "type": "burger", "image": "https://e7.pngegg.com/pngimages/343/134/png-clipart-whopper-cheeseburger-hamburger-big-king-chophouse-restaurant-cheese-burger.png" },
+    { "id": 5, "title": "Taco", "price": 80, "type": "taco", "image": "https://w7.pngwing.com/pngs/626/685/png-transparent-tacos.png" },
+    { "id": 6, "title": "Chicken Wrap", "price": 80, "type": "chicken", "image": "https://w7.pngwing.com/pngs/236/974/png-transparent-wrap-chicken-sandwich-hamburger-barbecue-chicken-vegetarian-cuisine-fried-chicken-food-recipe-american-food.png" },
+    { "id": 7, "title": "Coca Cola", "price": 20, "type": "drink", "image": "https://w7.pngwing.com/pngs/93/563/png-transparent-world-of-coca-cola-fizzy-drinks-diet-coke-pepsi-coca-cola-cola-cola-wars-beverage-can.png" },
+    { "id": 8, "title": "Irn Bru", "price": 30, "type": "drink", "image": "https://w7.pngwing.com/pngs/105/715/png-transparent-irn-bru-fizzy-drinks-a-g-barr-united-states-drink-orange-united-states-electric-blue.png" }
+  ]
+}
