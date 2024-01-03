@@ -8,9 +8,11 @@ import { Component, EventEmitter, Output } from '@angular/core';
 export class FiltersComponent {
 @Output() filterFoods = new EventEmitter<{ type: string}>()
 
+type = ''
+
 
 handleFilter(type: string) {
-
+  this.type = type
     this.filterFoods.emit({type})
 
 }

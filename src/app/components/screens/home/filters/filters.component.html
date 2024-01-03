@@ -1,4 +1,4 @@
-<div class="filters">
+<div class="filters" [ngClass]="{active: type === 'burger'}">
   <button (click)="handleFilter('burger')">
     <img src="https://cdn-icons-png.flaticon.com/512/2933/2933054.png" alt="burger">
   </button>
